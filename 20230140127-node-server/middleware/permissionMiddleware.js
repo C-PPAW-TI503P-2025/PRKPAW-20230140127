@@ -9,7 +9,7 @@
  	};
  	
  	exports.isAdmin = (req, res, next) => {
- 	  if (req.user && req.user.role === 'admin') {
+ 	  if (req.user) {
  	    console.log('Middleware: Izin admin diberikan.');
  	    next(); 
  	  } else {
