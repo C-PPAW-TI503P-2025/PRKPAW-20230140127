@@ -1,5 +1,6 @@
-<img width="787" height="281" alt="Cuplikan layar 2025-10-22 164818" src="https://github.com/user-attachments/assets/ead67943-ad93-4e87-b7a7-6426560f5846" />
-<img width="434" height="151" alt="Cuplikan layar 2025-10-22 162245" src="https://github.com/user-attachments/assets/38a7d35c-6265-4168-b674-7095375b87f0" />
-<img width="423" height="216" alt="Cuplikan layar 2025-10-22 162528" src="https://github.com/user-attachments/assets/a4e33de0-c290-4425-a728-d23bd279306e" />
-<img width="609" height="147" alt="Cuplikan layar 2025-10-22 163216" src="https://github.com/user-attachments/assets/0801f304-0e64-4a7d-88b1-22d824407df1" />
-<img width="616" height="212" alt="Cuplikan layar 2025-10-22 164145" src="https://github.com/user-attachments/assets/aeb3c24e-c984-4326-8517-8676ec1cd81b" />
+
+<img width="1920" height="1080" alt="Cuplikan layar 2025-10-22 161722" src="https://github.com/user-attachments/assets/782079b1-3c08-46ad-8c28-4e52ba495a84" />
+<img width="1920" height="1080" alt="Cuplikan layar 2025-10-22 161500" src="https://github.com/user-attachments/assets/1be38c9c-c71f-4b57-b6f8-19c5549552af" />
+<img width="1920" height="1080" alt="Cuplikan layar 2025-10-22 161525" src="https://github.com/user-attachments/assets/51f263c8-cba9-4ff2-b96b-d79ea500d07a" />
+<img width="1920" height="1080" alt="Cuplikan layar 2025-10-22 161612" src="https://github.com/user-attachments/assets/eba6cb2e-633b-4962-b7f4-3aa97119e3f4" />
+<img width="1920" height="1080" alt="Cuplikan layar 2025-10-22 161649" src="https://github.com/user-attachments/assets/05bf4ece-a17b-4149-be06-f0057ae4e1cb" />
